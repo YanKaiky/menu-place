@@ -1,4 +1,4 @@
-import { HeadlineCards, Hero, Navbar } from "./components";
+import { Foods, HeadlineCards, Hero, Navbar } from "./components";
 
 const App = () => {
   return (
@@ -6,6 +6,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <HeadlineCards />
+      <Foods />
     </>
   );
 }
