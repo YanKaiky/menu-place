@@ -1,4 +1,4 @@
-import { Foods, HeadlineCards, Hero, Navbar } from "./components";
+import { CategoriesCards, Foods, HeadlineCards, Hero, Navbar } from "./components";
 
 const App = () => {
   return (
@@ -6,6 +6,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <HeadlineCards />
+      <CategoriesCards />
       <Foods />
     </>
   );

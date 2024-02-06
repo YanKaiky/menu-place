@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Arabian",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/arabian-food.jpg"
+    },
+    {
+        "name": "Brazilian",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/brazilian-food.jpg"
+    },
+    {
+        "name": "Chinese",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/chinese-food.jpg"
+    },
+    {
+        "name": "Healthy",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/healthy-food.jpg"
+    },
+    {
+        "name": "Italian",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/italian-food.jpg"
+    },
+    {
+        "name": "Japanese",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/japanese-food.jpg"
+    },
+    {
+        "name": "Mexican",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/mexican-food.jpg"
+    },
+    {
+        "name": "Packed Lunch",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/packed-lunch.jpg"
+    },
+    {
+        "name": "Snacks",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/snacks.jpg"
+    },
+    {
+        "name": "Sweets & Cakes",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/sweets-%26-cakes.jpg"
+    }
+]
