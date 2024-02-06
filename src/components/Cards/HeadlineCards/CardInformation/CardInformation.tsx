@@ -12,8 +12,8 @@ export const CardInformation: FC<ICardInformationProps> = ({ title, subtitle, bu
         <div className="rounded-xl relative" title={title}>
             {/* Overlay */}
             <div className="absolute w-full h-full bg-black/40 rounded-xl text-white">
-                <p className="font-bold text-2xl px-2 pt-4">{title}</p>
-                <p className='px-2'>{subtitle}</p>
+                <p className="font-bold text-2xl px-2 pt-4 overflow-hidden whitespace-nowrap overflow-ellipsis">{title}</p>
+                <p className='px-2 overflow-hidden whitespace-nowrap overflow-ellipsis'>{subtitle}</p>
                 <button className="border-white bg-white text-black mx-2 absolute bottom-4">{buttonText}</button>
             </div>
             <img
