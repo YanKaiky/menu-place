@@ -1,0 +1,100 @@
+[
+    {
+        "guid": "d9dd4525-f8c3-41ec-a7c1-82a65c480fe5",
+        "name": "Hummus with Pita",
+        "category": "Arabian",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/arabian-food.jpg",
+        "price": 12
+    },
+    {
+        "guid": "ea9ec1d3-519e-4e38-a5df-f5aa69c43710",
+        "name": "Feijoada",
+        "category": "Brazilian",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/brazilian-food.jpg",
+        "price": 19
+    },
+    {
+        "guid": "df442386-ba1d-47b0-af01-0053da5afda0",
+        "name": "Dim Sum Platter",
+        "category": "Chinese",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/chinese-food.jpg",
+        "price": 13
+    },
+    {
+        "guid": "a21e3539-48c8-4f3b-9a37-e31070d0b739",
+        "name": "Quinoa Salad",
+        "category": "Healthy",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/healthy-food.jpg",
+        "price": 20
+    },
+    {
+        "guid": "bed1ea96-de6d-4258-b52b-5f15f8023dc9",
+        "name": "Margherita Pizza",
+        "category": "Italian",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/italian-food.jpg",
+        "price": 14
+    },
+    {
+        "guid": "4f3dbd93-36c0-49b4-b304-5cbba7ca77b0",
+        "name": "Sushi Platter",
+        "category": "Japanese",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/japanese-food.jpg",
+        "price": 21
+    },
+    {
+        "guid": "aedfff9e-0123-40d3-940b-0166bd6e76c0",
+        "name": "Tacos Al Pastor",
+        "category": "Mexican",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/mexican-food.jpg",
+        "price": 15
+    },
+    {
+        "guid": "b609795d-f6fd-446c-81d7-aa014e266d3c",
+        "name": "Bento Box",
+        "category": "Packed Lunch",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/packed-lunch.jpg",
+        "price": 22
+    },
+    {
+        "guid": "2ebd555d-0d89-4109-9179-524033da5bc0",
+        "name": "Nachos with Guacamole",
+        "category": "Snacks",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/snacks.jpg",
+        "price": 16
+    },
+    {
+        "guid": "f1fa5a53-d74c-43d4-bfd7-50ae0e55756f",
+        "name": "Chocolate Mousse",
+        "category": "Sweets & Cakes",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/sweets-%26-cakes.jpg",
+        "price": 23
+    },
+    {
+        "guid": "975ab69f-71c1-4769-b39a-52b60aa08c6c",
+        "name": "Red Velvet Cupcake",
+        "category": "Sweets & Cakes",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/sweets-%26-cakes.jpg",
+        "price": 17
+    },
+    {
+        "guid": "67721493-e253-489f-a16f-f8fdca81ca80",
+        "name": "Tiramisu",
+        "category": "Sweets & Cakes",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/sweets-%26-cakes.jpg",
+        "price": 24
+    },
+    {
+        "guid": "5f57f678-67b1-4c59-9c9c-08fe4e863ead",
+        "name": "Blueberry Cheesecake",
+        "category": "Sweets & Cakes",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/sweets-%26-cakes.jpg",
+        "price": 18
+    },
+    {
+        "guid": "fd4e810c-f9ab-4aee-a672-9f73abd4b689",
+        "name": "Pecan Pie",
+        "category": "Sweets & Cakes",
+        "image_url": "https://menu-place.s3.sa-east-1.amazonaws.com/sweets-%26-cakes.jpg",
+        "price": 25
+    }
+]

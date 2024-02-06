@@ -9,7 +9,7 @@ interface ICardInformationProps {
 
 export const CardInformation: FC<ICardInformationProps> = ({ title, subtitle, buttonText, image_url }) => {
     return (
-        <div className="rounded-xl relative">
+        <div className="rounded-xl relative" title={title}>
             {/* Overlay */}
             <div className="absolute w-full h-full bg-black/40 rounded-xl text-white">
                 <p className="font-bold text-2xl px-2 pt-4">{title}</p>
@@ -19,7 +19,7 @@ export const CardInformation: FC<ICardInformationProps> = ({ title, subtitle, bu
             <img
                 className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
                 src={image_url}
-                alt="Spaghetti carbonara"
+                alt={title}
             />
         </div>
     )
