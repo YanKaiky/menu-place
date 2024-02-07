@@ -25,11 +25,11 @@ export const Foods = () => {
             <p className="font-bold text-2xl px-2 pt-4">Filters</p>
 
             <div className='grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6 pt-4'>
-                <button className={`bg-${isAllSelected ? 'orange-500' : 'white'} text-${isAllSelected ? 'white' : 'black'} mx-2`} onClick={() => setSelectedCategories([])}>All</button>
+                <button className={`${isAllSelected ? 'bg-orange-500' : 'bg-white'} ${isAllSelected ? 'text-white' : 'text-black'} mx-2`} onClick={() => setSelectedCategories([])}>All</button>
                 {categories.map((ct, i) => (
                     <button
                         key={i}
-                        className={`bg-${selectedCategories.includes(ct.name) ? 'orange-500' : 'white'} text-${selectedCategories.includes(ct.name) ? 'white' : 'black'} mx-2`}
+                        className={`${selectedCategories.includes(ct.name) ? 'bg-orange-500' : 'bg-white'} ${selectedCategories.includes(ct.name) ? 'text-white' : 'text-black'} mx-2`}
                         onClick={() => handleCategoryClick(ct.name)}
                     >
                         {ct.name}
